@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/html-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
-
+<br><br>
 
 <p>✨ SNS ✨</p>
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/html-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
 
-
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
