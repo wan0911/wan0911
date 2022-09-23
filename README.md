@@ -6,7 +6,7 @@
   
   <br><br>
   
-  ##<p>🛠️ Tech Stack 🛠️</p>
+  <p>🛠️ Tech Stack 🛠️</p>
 
 <div>
   <img src="https://img.shields.io/badge/HTML-FF9A00?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -19,15 +19,17 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
+<hr>
 
 <br>
 
-##<p>✨ SNS ✨</p>
+<p>✨ SNS ✨</p>
 
 <div>
   <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/html-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   <img src="https://img.shields.io/badge/html-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
+<hr>
 
 <br><br>
 
