@@ -6,7 +6,7 @@
   
   <br><br>
   
-  <p>🛠️ Tech Stack 🛠️</p>
+  ##<p>🛠️ Tech Stack 🛠️</p>
 
 <div>
   <img src="https://img.shields.io/badge/HTML-FF9A00?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -22,7 +22,7 @@
 
 <br>
 
-<p>✨ SNS ✨</p>
+##<p>✨ SNS ✨</p>
 
 <div>
   <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/html-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
@@ -32,6 +32,7 @@
 <br><br>
 
 ![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangSaeYoung&show_icons=true&theme=apprentice)
+  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
