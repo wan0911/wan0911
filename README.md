@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&section=header&text=welcom&fontSize=70&fontColor=ffffff&=header&text=wan's%20git)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&section=header&text=welcom&fontSize=50&fontColor=ffffff&=header&text=wan's%20git)
+
+<img src="https://img.shields.io/badge/html-FF9A00?style=for-the-badge&logo=HTML5&logoColor=black">
 
 ### Hi there 👋
 
