@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23AFB1D9&title_bg=%23D8DAF3&icon=aiqfome.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   
-  <img src="http://pds21.egloos.com/pds/201812/30/59/c0225259_5c28b9b6aa5e4.gif" display="block/>
+  <img src="http://pds21.egloos.com/pds/201812/30/59/c0225259_5c28b9b6aa5e4.gif" display="block"/>
   
   <br>
   
