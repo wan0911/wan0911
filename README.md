@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
-<hr>
 
 <br>
 
@@ -29,7 +28,6 @@
   <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
-<hr>
 
 <br><br>
 ![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=apprentice)
