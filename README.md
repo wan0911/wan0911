@@ -3,8 +3,6 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23AFB1D9&title_bg=%23D8DAF3&icon=aiqfome.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   
-  <img src="http://pds21.egloos.com/pds/201812/30/59/c0225259_5c28b9b6aa5e4.gif" display="block"/>
-  
   <br>
   
   <p>🛠️ Tech Stack 🛠️</p>
@@ -16,6 +14,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap&-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
@@ -30,6 +29,7 @@
 </div>
 
 <br><br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
