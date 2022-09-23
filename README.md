@@ -30,8 +30,8 @@
 <p>✨ SNS ✨</p>
 
 <div>
-  <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/html-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/html-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
 <hr>
 
