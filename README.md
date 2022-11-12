@@ -27,6 +27,9 @@
 <div>
   <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  <a href="https://spot-grin-55d.notion.site/6b91713ecae1415d9f19db414d59aee4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Nmail&logoColor=white"></a>
+  
+  
 </div>
 
 <br><br>
