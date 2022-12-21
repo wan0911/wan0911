@@ -31,8 +31,8 @@
 
 <br><br>
 ![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&layout=compact&theme=dark)](https://github.com/wan0911/wan0911)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&layout=compact&theme=dark)](https://github.com/wan0911/wan0911) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&theme=dark)](https://github.com/wan0911/wan0911)
   
 </div>
 
