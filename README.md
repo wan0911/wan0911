@@ -1,17 +1,17 @@
 <!-- ![header](https://capsule-render.vercel.app/api?
 type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontSize=50&fontColor=ffffff) -->
 
-#### 🧑‍💻 Introduction
+### 🧑‍💻 Introduction
 👋 Hi, wan's git
 
-<br><br>
-#### ☎️ Contact & Channel
+<br>
+### ☎️ Contact & Channel
 - **email** : 2jin_j0810@gmail.com
 - **github** : [https://github.com/wan0911](https://github.com/wan0911)
 - **notion** : [기록용 notion](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
 
-<br><br>
-#### 🛠️ Skills
+<br>
+### 🛠️ Skills
 - **DevOps**
     - MySQL
     - AWS (Cloudformation, Route 53, API Gateway, EC2, ECS, Lambda, EFS, S3)
