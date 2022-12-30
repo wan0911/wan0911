@@ -1,17 +1,17 @@
 <!-- ![header](https://capsule-render.vercel.app/api?
 type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontSize=50&fontColor=ffffff) -->
 
-## 🧑‍💻 Introduction
-**👋 Hi, wan's git**
+#### 🧑‍💻 Introduction
+👋 Hi, wan's git
 
-### ☎️ Contact & **Channel**
+<br><br>
+#### ☎️ Contact & Channel
+- **email** : 2jin_j0810@gmail.com
+- **github** : [https://github.com/wan0911](https://github.com/wan0911)
+- **notion** : [기록용 notion](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
 
-- email : 2jin_j0810@gmail.com
-- github : [https://github.com/wan0911](https://github.com/wan0911)
-- notion : [기록용 notion](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
-
-### 🛠️ Skills
-
+<br><br>
+#### 🛠️ Skills
 - **DevOps**
     - MySQL
     - AWS (Cloudformation, Route 53, API Gateway, EC2, ECS, Lambda, EFS, S3)
@@ -23,6 +23,11 @@ type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontS
 - **Tools**
     - Jupyter Notebook, Pycharm, Colab, VS Code
     - Slack, GitHub, Notion
+
+<br><br>
+![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=apprentice)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&layout=compact&theme=dark)](https://github.com/wan0911/wan0911)
+  
 
 
 
@@ -51,16 +56,11 @@ type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontS
   
   <div>
       <a href="https://spot-grin-55d.notion.site/6b91713ecae1415d9f19db414d59aee4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-<!--     <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> -->
+    <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </div>
+</div> -->
 
-<br><br>
-![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&layout=compact&theme=dark)](https://github.com/wan0911/wan0911)
-  
-</div>
- -->
 
 <!--
 **wan0911/wan0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
