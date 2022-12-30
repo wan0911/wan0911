@@ -1,6 +1,32 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontSize=50&fontColor=ffffff) -->
+<!-- ![header](https://capsule-render.vercel.app/api?
+type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontSize=50&fontColor=ffffff) -->
 
-# 👋 Hi, wan's git
+## 🧑‍💻 Introduction
+**👋 Hi, wan's git**
+
+### ☎️ Contact & **Channel**
+
+- email : 2jin_j0810@gmail.com
+- github : [https://github.com/wan0911](https://github.com/wan0911)
+- notion : [기록용 notion](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
+
+### 🛠️ Skills
+
+- **DevOps**
+    - MySQL
+    - AWS (Cloudformation, Route 53, API Gateway, EC2, ECS, Lambda, EFS, S3)
+- **Data**
+    - NumPy, Pandas, TensorFlow
+- **ETC**
+    - Python, C
+    - Web (HTML, CSS, JS, React.js, Node.js)
+- **Tools**
+    - Jupyter Notebook, Pycharm, Colab, VS Code
+    - Slack, GitHub, Notion
+
+
+
+<!-- # 👋 Hi, wan's git
 
 <br><br>
 <div>
@@ -34,7 +60,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&layout=compact&theme=dark)](https://github.com/wan0911/wan0911)
   
 </div>
-
+ -->
 
 <!--
 **wan0911/wan0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
