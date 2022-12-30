@@ -5,12 +5,14 @@ type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontS
 👋 Hi, wan's git
 
 <br>
+
 ### ☎️ Contact & Channel
 - **email** : 2jin_j0810@gmail.com
 - **github** : [https://github.com/wan0911](https://github.com/wan0911)
 - **notion** : [기록용 notion](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
 
 <br>
+
 ### 🛠️ Skills
 - **DevOps**
     - MySQL
