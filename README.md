@@ -5,6 +5,7 @@ type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontS
 👋 Hi, wan's git
 
 <br>
+---
 
 ### ☎️ Contact & Channel
 - **email** : 2jin_j0810@gmail.com
@@ -12,11 +13,11 @@ type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontS
 - **notion** : [기록용 notion](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
 
 <br>
+---
 
 ### 🛠️ Skills
 - **DevOps**
     - MySQL
-    - AWS (Cloudformation, Route 53, API Gateway, EC2, ECS, Lambda, EFS, S3)
 - **Data**
     - NumPy, Pandas, TensorFlow
 - **ETC**
