@@ -7,23 +7,25 @@ type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontS
 ---
 
 ### ☎️ Contact & Channel
-- **email** : 2jin_j0810@gmail.com
+- **email** : 2jin.j0810@gmail.com
 - **github** : [https://github.com/wan0911](https://github.com/wan0911)
-- **notion** : [기록용 notion](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
+- **notion** : [코딩 일지](https://www.notion.so/6b91713ecae1415d9f19db414d59aee4)
+- **profile** : [프로필](https://spot-grin-55d.notion.site/wan-1b5c2247b093442c935aaef64ba5ea22?pvs=4)
 
 ---
 
 ### 🛠️ Skills
 - **DevOps**
-    - MySQL
+    - MySQL, MongoDB
 - **Data**
     - NumPy, Pandas, TensorFlow
 - **ETC**
     - Python, C
-    - Web (HTML, CSS, JS, React.js, Node.js)
+    - Web (HTML, CSS, JS, React.js, Node.js, fastAPI)
 - **Tools**
     - Jupyter Notebook, Pycharm, Colab, VS Code
     - Slack, GitHub, Notion
+
 
 <br><br>
 ![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=apprentice)
