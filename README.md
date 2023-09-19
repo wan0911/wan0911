@@ -34,7 +34,7 @@ type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontS
 [![[wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911)](https://github.com/wan0911/github-readme-stats)
 ![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=apprentice)
 -->
-![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=tokyonight)(https://github.com/wan0911/github-readme-stats)
+![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&layout=compact&theme=dark)](https://github.com/wan0911/wan0911)  
 
 
