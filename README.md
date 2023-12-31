@@ -1,17 +1,16 @@
 
 ### wan's git
-
----
+<hr/>
 
 - 🌱 I’m currently learning Smart-Factory, web(backend)
 - 📚 my archive: [코딩일지](https://www.notion.so/Coding-6b91713ecae1415d9f19db414d59aee4?pvs=21)
-- <img src="https://img.shields.io/badge/2jin.j0810@gmail.com-red?style=flat&logo=maildotcom&logoColor=004788"/>
+- <img src="https://img.shields.io/badge/2jin.j0810@gmail.com-red?style=flat&logo=gmail&logoColor=EA4335"/>
 
 <br/>
 
-### Tech Stack
 
----
+### Tech Stack
+<hr/>
 
 - **Languages**
     - Python, C#(WPF), JS
