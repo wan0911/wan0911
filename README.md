@@ -1,73 +1,36 @@
-<!-- ![header](https://capsule-render.vercel.app/api?
-type=waving&color=auto&height=300&section=header&text=Hello!%20wan's%20git&fontSize=50&fontColor=ffffff) -->
 
-### 🧑‍💻 Introduction
-
-👋 Hi, wan's git
+### wan's git
 
 ---
 
-### ☎️ Contact & Channel
+- 🌱 I’m currently learning Smart-Factory, web(backend)
+- 📚 my archive: [코딩일지](https://www.notion.so/Coding-6b91713ecae1415d9f19db414d59aee4?pvs=21)
+- <img src="https://img.shields.io/badge/2jin.j0810@gmail.com-red?style=flat&logo=maildotcom&logoColor=004788"/>
 
-- **email** : [2jin_j0810@gmail.com](mailto:2jin_j0810@gmail.com)
-- **github** : https://github.com/wan0911
-- **notion** : [코딩일지](https://www.notion.so/Coding-6b91713ecae1415d9f19db414d59aee4?pvs=21)
+<br/>
+
+### Tech Stack
 
 ---
 
-### 🛠️ Skills
-
-- **ETC**
-    - Python, C, C#
-    - Web (HTML, CSS, JS, React.js, Node.js)
+- **Languages**
+    - Python, C#(WPF), JS
 - **DB**
-    - MySQL, MsSQL, MongoDB
-- **Data**
-    - NumPy, Pandas, TensorFlow
+    - Sql (oracle, MySQL, MsSQL)
+    - NoSql (MongoDB)
+- **Web**
+    - HTML, CSS, React.js, Node.js
 - **Tools**
+    - fastAPI, Figma, Notion
     - Pycharm, Colab, Jupyter Notebook, VS Code, Visual Studio
-    - fastAPI, WPF, Notion, Figma
 
 
-<br><br>
-<!--
-[![[wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911)](https://github.com/wan0911/github-readme-stats)
-![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=apprentice)
--->
+
+<br/><br/>
+
 ![wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan0911&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan0911&layout=compact&theme=dark)](https://github.com/wan0911/wan0911)  
 
-
-
-<!-- # 👋 Hi, wan's git
-
-<br><br>
-<div>
-
-  ### 🛠️ Tech Stack 🛠
-  
-  <div>
-    <img src="https://img.shields.io/badge/HTML-FF9A00?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-2C5BB4?style=for-the-badge&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=for-the-badge&logo=JavaScript&logoColor=black">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-    <img src="https://img.shields.io/badge/Bootstrap&-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  </div>
-
-<br><br>
-  ### ✨ SNS ✨
-  
-  <div>
-      <a href="https://spot-grin-55d.notion.site/6b91713ecae1415d9f19db414d59aee4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-    <a href="https://velog.io/@2jin_j"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </div>
-</div> -->
 
 
 <!--
@@ -84,4 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
