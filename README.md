@@ -14,7 +14,8 @@
 ### Tech Stack
 
 - **Languages**
-    - Python, C#(WPF)
+    - Python, C#(ASP.NET MVC)
+    - JAVA, JS 📚
 - **DB**
     - Sql (oracle, MySQL, MsSQL)
     - NoSql (MongoDB)
